@@ -1,0 +1,11 @@
+input{
+    border: none;
+    border-bottom: 1px solid rgb(57, 86, 250);
+    background-color: transparent;
+    width: 300px;
+}
+
+.addts{
+display: flex;
+justify-content: space-around;
+}

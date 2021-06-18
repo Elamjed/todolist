@@ -1,0 +1,25 @@
+.fltr{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+.fltr .fltrdone, .fltrnotdone, .fltrall{
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 80px;
+    height: 23px;
+
+}
+.fltrdone{
+    background-color:rgb(4, 238, 16);
+}
+.fltrnotdone{
+    background-color: red;
+}
+.fltrall{
+    background-color: rgb(112, 44, 240);
+}

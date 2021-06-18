@@ -1,0 +1,13 @@
+.ed{
+    color: rgb(112, 44, 240);
+}
+.dn{
+    color:rgb(4, 238, 16)
+}
+.dl{
+    color: red;
+}
+.tsk{
+    display: flex;
+    justify-content: space-around;
+}
